@@ -1,0 +1,2 @@
+# hct_launcher_release
+連携ターミナルランチャーのリリース
